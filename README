@@ -1,1 +1,2 @@
-simple Makefile
+In order to install this program you need to download it, then in terminal go into its directory and write "make hello"
+Then you should write "./hello" if you want to launch it
