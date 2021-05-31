@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1620825681 source:d:\programowanie\algorytmika\lab9_odwracaniepiosenki\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-

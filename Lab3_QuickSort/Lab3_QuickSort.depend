@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1615995437 source:d:\programowanie\algorytmika\lab3_quicksort\main.cpp
-	<iostream>
-	<fstream>
-	<sstream>
-	<cstdlib>
-

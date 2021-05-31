@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1621428052 source:d:\programowanie\algorytmika\lab10_queue\main.cpp
-	<iostream>
-	<fstream>
-	<stdlib.h>
-	<time.h>
-
