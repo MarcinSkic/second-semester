@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622033304 source:d:\programowanie\programming c\lab11_onewaylist\main.cpp
+	<iostream>
+
+1623751914 source:d:\programowanie\algorytmika\lab11_onewaylist\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

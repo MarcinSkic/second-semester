@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619615562 source:d:\programowanie\algorytmika\labolatorium7_binarysearch\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+

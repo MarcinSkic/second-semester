@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620731453 source:d:\programowanie\algorytmika\lab4_flaga\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<cmath>
+

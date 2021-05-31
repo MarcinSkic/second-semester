@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615386124 source:d:\programowanie\algorytmika\lab2_sorting\main.cpp
+	<iostream>
+	"ArrayMethods.h"
+	<time.h>
+
+1615382316 d:\programowanie\algorytmika\lab2_sorting\include\arraymethods.h
+
+1615382628 source:d:\programowanie\algorytmika\lab2_sorting\src\arraymethods.cpp
+	"ArrayMethods.h"
+	<iostream>
+	<iomanip>
+

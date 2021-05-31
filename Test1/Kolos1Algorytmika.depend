@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620219532 source:d:\programowanie\algorytmika\kolos1algorytmika\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
