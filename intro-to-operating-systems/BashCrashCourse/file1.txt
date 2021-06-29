@@ -1,0 +1,15 @@
+total 48
+drwxrwxr-x 2 student student 4096 maj 10 18:50 .
+drwxr-xr-x 3 student student 4096 maj 10 18:44 ..
+-rwxrwxr-x 1 student student  118 maj 10 15:17 case.sh
+-rw-rw-r-- 1 student student   64 maj 10 12:25 comments.sh
+-rwxrwxr-x 1 student student  766 maj 10 14:33 conditions.sh
+-rwxrwxr-x 1 student student  151 maj 10 18:31 createScript.sh
+-rw-rw-r-- 1 student student    0 maj 10 18:50 file1.txt
+-rw-rw-r-- 1 student student    0 maj 10 18:50 file2.txt
+-rwxrwxr-x 1 student student   59 maj 10 12:24 helloBash.sh
+-rwxrwxr-x 1 student student  121 maj 10 12:32 helloDocDelimiter.sh
+-rwxrwxr-x 1 student student  146 maj 10 18:48 input.sh
+-rwxrwxr-x 1 student student  436 maj 10 18:04 loops.sh
+-rwxrwxr-x 1 student student   44 maj 10 18:50 outputs.sh
+-rwxrwxr-x 1 student student   13 maj 10 18:29 pipes.sh
