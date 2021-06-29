@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618406686 source:d:\programowanie\algorytmika\lab5_szukaniewzorcawtekœcie\main.cpp
+	<iostream>
+	<string>
+
+1619012323 source:d:\programowanie\algorytmika\lab5+6_szukaniewzorcawtekœcie\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+
